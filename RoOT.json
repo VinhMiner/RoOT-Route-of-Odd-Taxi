@@ -10,10 +10,7 @@
       "volume": "1",
       "last_updated": "1750360523",
       "groups": {
-        "VinhMiner": [
-          "https://drive.google.com/file/d/1JkTRefMXy8e4kVyTDNdfsltSZQFui89N/view?usp=drive_link",
-          "https://drive.google.com/file/d/1boEGe3L1NzlrZptlqBZ8TEPRPzZaFVFs/view?usp=drive_link"
-        ]
+        "VinhMiner": "https://drive.google.com/file/d/1JkTRefMXy8e4kVyTDNdfsltSZQFui89N/view?usp=sharing"
       }
     }
   }
