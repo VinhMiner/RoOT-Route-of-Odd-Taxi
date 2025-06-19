@@ -10,7 +10,11 @@
       "volume": "1",
       "last_updated": "1750360523",
       "groups": {
-        "VinhMiner": "/proxy/api/imgchest/chapter/7kzcanpjb27"
+        "VinhMiner": [
+          "https://cdn.imgchest.com/files/7kzcanpze97.png",
+          "https://cdn.imgchest.com/files/7pjcq6nvxm7.png",
+          "https://cdn.imgchest.com/files/7ogcbvae88y.png"
+        ]
       }
     }
   }
